@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbWfAJIp4S4=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\LP-2026-02-20_PicoGK\\CFE\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\picogk\\1.7.7.5\\picogk.1.7.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
